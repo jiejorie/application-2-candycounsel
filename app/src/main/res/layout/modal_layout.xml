@@ -53,7 +53,7 @@
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/calsans"
         android:maxWidth="270dp"
-        android:text="Find your dream sweet treat by setting your favorite preferences! \n\nTo do so, Click the 'Edit Preferences Button' then pick between your favorite choices and submit! \n\nYou'll receive your result and the Home page will be updated!"
+        android:text="Find your dream sweet treat with the help of Willy Wonka's crazy candy counsel just by setting your favorite preferences! \n\nTo do so, Click the 'Edit Preferences Button' then pick between your favorite choices and submit! \n\nYou'll receive your result and the Home page will be updated!"
         android:textColor="@color/dark_brown"
         android:textSize="13sp"
         app:layout_constraintEnd_toEndOf="parent"
